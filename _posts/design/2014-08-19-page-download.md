@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title:  "Free All Ved and Puran PDF Hindi"
-subheadline:  "Download"
+title:  "Free All Ved and Puran"
+subheadline:  "pdf"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 categories:
     - design
@@ -12,8 +12,8 @@ header:
 <!--more-->
 ## Purans
 
-1. [Agni Puran](../../blob/agni-puran.pdf)
-2. [Bhagwat Puran](../../blob/bhagwat-puran.pdf)
+1. [Agni Puran](../../purans/agni-puran.pdf)
+2. [Bhagwat Puran](../../purans/bhagwat-puran.pdf)
 3. Bhavishya Puran
 
 <div class="row">
