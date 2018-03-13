@@ -12,7 +12,7 @@ header:
 <!--more-->
 ## Purans
 
-1. [Agni Puran](../blob/agni-puran.pdf)
+1. [Agni Puran](/blob/agni-puran.pdf)
 2. Bhagwat Puran
 3. Bhavishya Puran
 
