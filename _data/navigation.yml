@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Download
+  url: "/design/page-download/"
+  side: left
+
 - title: Getting Started
   url: "/getting-started/"
   side: left
