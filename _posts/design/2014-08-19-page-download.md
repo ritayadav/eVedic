@@ -12,9 +12,10 @@ header:
 <!--more-->
 ## Purans
 
-1. [Agni Puran] (../blob/agni-puran.pdf)
+[1. Agni Puran] (../blob/agni-puran.pdf)
 2. Bhagwat Puran
 3. Bhavishya Puran
+This is [an example](http://www.example.com/) inline link.
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
